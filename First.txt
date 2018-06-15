@@ -1,1 +1,2 @@
 it is a document to learn Git
+wo shi 
