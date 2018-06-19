@@ -1,8 +1,5 @@
 it is a document to learn Git
 wo shi 
 I feel so tired today
-<<<<<<< HEAD
 can you feel my word
-=======
 di da di di da di 
->>>>>>> dev
